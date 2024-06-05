@@ -1,0 +1,13 @@
+body {
+    background-color: #333; /* Color de fondo gris oscuro */
+}
+
+.container {
+    text-align: center; /* Centrar todos los elementos */
+}
+
+h1, p {
+    background-color: #fff; /* Color de fondo blanco para el título y el párrafo */
+    padding: 10px;
+    margin: 10px;
+}
